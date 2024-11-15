@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### 3d Graphics
 
-[Project 1 Title](/sample_page)
+[RyTracer: A Java multi-threaded 3d bucket renderer](https://github.com/ryanamundson1/ry_tracer)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
