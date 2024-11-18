@@ -5,7 +5,7 @@
 ### 3d Graphics
 
 [RyTracer: A Java multi-threaded 3d bucket renderer](https://github.com/ryanamundson1/ry_tracer)
-<img src="[images/ball_lineup.jpg](https://github.com/ryanamundson1/ry_tracer/blob/bf07145ad78b478c642bb654836204be5b763f9f/ball_lineup.jpeg?raw=true"/>
+<img src="[https://github.com/ryanamundson1/ry_tracer/blob/bf07145ad78b478c642bb654836204be5b763f9f/ball_lineup.jpeg](https://github.com/ryanamundson1/ry_tracer/blob/bf07145ad78b478c642bb654836204be5b763f9f/ball_lineup.jpeg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
