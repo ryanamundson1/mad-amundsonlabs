@@ -8,8 +8,8 @@
 <img src="images/ball_lineup.jpeg?raw=true" width="600" height="400"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project Management_Design]([/images/project_management_gantt.png](https://github.com/ryanamundson1/MSDS/blob/8733e940bbbd9d2086d59579f9dc03056f0a961a/MSDS-475/RyanAmundson_Final_FPD.pdf))
+<img src="images/project_management_gantt.png?raw=true" width="600" height="400"/>
 
 ---
 
