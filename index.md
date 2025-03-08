@@ -8,7 +8,7 @@
 <img src="images/ball_lineup.jpeg?raw=true" width="600" height="400"/>
 
 ---
-[Project Management Design]([/images/project_management_gantt.png](https://github.com/ryanamundson1/MSDS/blob/8733e940bbbd9d2086d59579f9dc03056f0a961a/MSDS-475/RyanAmundson_Final_FPD.pdf))
+[AI Project Management Design Doc]([/images/project_management_gantt.png](https://github.com/ryanamundson1/MSDS/blob/8733e940bbbd9d2086d59579f9dc03056f0a961a/MSDS-475/RyanAmundson_Final_FPD.pdf))
 <img src="images/project_management_gantt.png?raw=true" width="600" height="400"/>
 
 ---
