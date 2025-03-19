@@ -15,7 +15,8 @@
 
 ### Visualizations
 
-- [Big Five Extinction Events]([http://example.com/](https://github.com/ryanamundson1/MSDS/blob/main/MSDS-455/assignment1_ryan_amundson.ipynb))
+- [Big Five Extinction Events](https://github.com/ryanamundson1/MSDS/blob/main/MSDS-455/assignment1_ryan_amundson.ipynb)
+<img src="https://github.com/ryanamundson1/MSDS/blob/c31458ba0683217f96a7e91d064bc7971d856003/MSDS-455/assignment1_biodiversity.png" width="600" height="400"/>
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
