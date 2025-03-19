@@ -21,7 +21,7 @@
 - [Exoplanet Discovery Methods](https://github.com/ryanamundson1/MSDS/blob/main/MSDS-455/assignment2_ryan_amundson.ipynb)
 <img src="https://github.com/ryanamundson1/MSDS/blob/c31458ba0683217f96a7e91d064bc7971d856003/MSDS-455/Ryan_Amundson_A2_categorical.png" width="600" height="350"/>
 
-- [Exoplanet Discovery Methods](https://github.com/ryanamundson1/MSDS/blob/main/MSDS-455/assignment2_ryan_amundson.ipynb)
+- [Land-based Dinosaur Taxonomy](https://github.com/ryanamundson1/MSDS/blob/main/MSDS-455/assignment3_ryan_amundson.ipynb)
 <img src="https://github.com/ryanamundson1/MSDS/blob/c31458ba0683217f96a7e91d064bc7971d856003/MSDS-455/Ryan_Amundson_Assignment_3_hier.pdf" width="600" height="350"/>
 
 - [Project 4 Title](http://example.com/)
