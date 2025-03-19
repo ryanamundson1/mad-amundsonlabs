@@ -2,7 +2,7 @@
 
 ---
 
-### 3d Graphics
+### Software / PM Projects
 
 [RyTracer: A Java multi-threaded 3d bucket renderer](https://github.com/ryanamundson1/ry_tracer)
 <img src="images/ball_lineup.jpeg?raw=true" width="600" height="400"/>
@@ -18,7 +18,8 @@
 - [Big Five Extinction Events](https://github.com/ryanamundson1/MSDS/blob/main/MSDS-455/assignment1_ryan_amundson.ipynb)
 <img src="https://github.com/ryanamundson1/MSDS/blob/c31458ba0683217f96a7e91d064bc7971d856003/MSDS-455/assignment1_biodiversity.png" width="600" height="350"/>
 
-- [Project 2 Title](http://example.com/)
+- [Exoplanet Discovery Methods](https://github.com/ryanamundson1/MSDS/blob/main/MSDS-455/assignment2_ryan_amundson.ipynb)
+<img src="[https://github.com/ryanamundson1/MSDS/blob/c31458ba0683217f96a7e91d064bc7971d856003/MSDS-455/exo_planet_nasa_v2.png" width="600" height="350"/>
 
 - [Project 3 Title](http://example.com/)
 
