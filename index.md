@@ -16,13 +16,13 @@
 ### Visualizations
 
 - [Big Five Extinction Events](https://github.com/ryanamundson1/MSDS/blob/main/MSDS-455/assignment1_ryan_amundson.ipynb)
-<img src="images/Ryan_Amundson_Assignement_1_timeseries.png?raw=true" width="600" height="350"/>
+<img src="images/Ryan_Amundson_Assignement_1_timeseries.png?raw=true" width="650" height="350"/>
 
 - [Exoplanet Discovery Methods](https://github.com/ryanamundson1/MSDS/blob/main/MSDS-455/assignment2_ryan_amundson.ipynb)
-<img src="images/Ryan_Amundson_A2_categorical.png?raw=true" width="600" height="350"/>
+<img src="images/Ryan_Amundson_A2_categorical.png?raw=true" width="650" height="350"/>
 
 - [Land-based Dinosaur Taxonomy](https://github.com/ryanamundson1/MSDS/blob/main/MSDS-455/assignment3_ryan_amundson.ipynb)
-<img src="images/Ryan_Amundson_Assignment_3_hier.png?raw=true" width="600" height="350"/>
+<img src="images/Ryan_Amundson_Assignment_3_hier.png?raw=true" width="650" height="350"/>
 
 - [Project 4 Title](http://example.com/)
 
